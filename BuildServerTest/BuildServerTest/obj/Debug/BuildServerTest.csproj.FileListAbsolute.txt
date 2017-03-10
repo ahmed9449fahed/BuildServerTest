@@ -88,7 +88,6 @@ C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\bin\Debug
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
-C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\obj\Debug\BuildServerTest.csprojResolveAssemblyReference.cache
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\obj\Debug\View\View1.baml
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\obj\Debug\MainWindow.g.cs
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerTest\obj\Debug\View\View1.g.cs

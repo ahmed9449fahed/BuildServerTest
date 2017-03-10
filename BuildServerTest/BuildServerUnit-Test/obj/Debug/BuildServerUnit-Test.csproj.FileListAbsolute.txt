@@ -9,6 +9,5 @@ C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\bin\
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\bin\Debug\BuildServerUnit-Test.pdb
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\bin\Debug\nunit.framework.dll
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\bin\Debug\nunit.framework.xml
-C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\obj\Debug\BuildServerUnit-Test.csprojResolveAssemblyReference.cache
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\obj\Debug\BuildServerUnit-Test.dll
 C:\Users\afa\Documents\BuildServerTest\BuildServerTest\BuildServerUnit-Test\obj\Debug\BuildServerUnit-Test.pdb
