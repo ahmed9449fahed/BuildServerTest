@@ -7,10 +7,10 @@ using NUnit.Framework;
 
 namespace BuildServerUnit_Test
 {
-    [TestFixture]
+
     public class Class1
     {
-        [Test]
+      
         public void test1()
         {
             
