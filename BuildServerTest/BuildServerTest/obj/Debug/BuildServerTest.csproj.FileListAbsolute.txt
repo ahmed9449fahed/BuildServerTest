@@ -48,3 +48,4 @@ C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\Buil
 C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerTest\obj\Debug\BuildServerTest.pdb
 C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerTest\obj\Debug\BuildServerTest_MarkupCompile.lref
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerTest\obj\Debug\BuildServerTest.csprojResolveAssemblyReference.cache
