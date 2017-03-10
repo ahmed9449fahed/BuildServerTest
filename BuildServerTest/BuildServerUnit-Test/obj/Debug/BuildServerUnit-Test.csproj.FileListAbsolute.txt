@@ -1,0 +1,5 @@
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerUnit-Test\bin\Debug\BuildServerUnit-Test.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerUnit-Test\bin\Debug\BuildServerUnit-Test.pdb
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerUnit-Test\obj\Debug\BuildServerUnit-Test.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerUnit-Test\obj\Debug\BuildServerUnit-Test.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\BuildServer\BuildServerTest\BuildServerUnit-Test\obj\Debug\BuildServerUnit-Test.pdb

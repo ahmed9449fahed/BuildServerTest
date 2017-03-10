@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildServerTest", "BuildServerTest\BuildServerTest.csproj", "{9A5FDAB4-4B0D-4118-B6C9-6B452C7AE808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildServerUnit-Test", "BuildServerUnit-Test\BuildServerUnit-Test.csproj", "{E40EC82B-E949-4709-8F02-E56E55BCE30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5FDAB4-4B0D-4118-B6C9-6B452C7AE808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5FDAB4-4B0D-4118-B6C9-6B452C7AE808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5FDAB4-4B0D-4118-B6C9-6B452C7AE808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5FDAB4-4B0D-4118-B6C9-6B452C7AE808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40EC82B-E949-4709-8F02-E56E55BCE30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40EC82B-E949-4709-8F02-E56E55BCE30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40EC82B-E949-4709-8F02-E56E55BCE30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40EC82B-E949-4709-8F02-E56E55BCE30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
